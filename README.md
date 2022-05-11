@@ -10,7 +10,7 @@
   <li> Dataset present in the folder is a sample dataset with images extraced from the original dataset. </li>
 </ol>
  
- <h3> Original Dataset can be dowloaded from <a href="https://li-chongyi.github.io/proj_benchmark.html">Link.</a> </h3>
+##Original Dataset can be dowloaded from <a href="https://li-chongyi.github.io/proj_benchmark.html">Link.</a>
  <h3> To run code with original dataset </h3>
  <ol>
   <li> Download Dataset from the above link and extract it using the password specified in the website.</li>
@@ -18,3 +18,6 @@
   <li> Change the path in <b>line 6</b> in <b>main.m</b> to the appropriate path. </li>
   <li> Click run. </li>
 </ol> 
+
+## Video Demonstration - Full Resolution Link
+<a href="https://drive.google.com/file/d/1GEWqb2WEvIBBZ5hDUKS5lwtPJRntBjoH/view?usp=sharing">Video</a>
