@@ -10,7 +10,7 @@
   <li> Dataset present in the folder is a sample dataset with images extraced from the original dataset. </li>
 </ol>
  
-##Original Dataset can be dowloaded from <a href="https://li-chongyi.github.io/proj_benchmark.html">Link.</a>
+## Original Dataset can be dowloaded from <a href="https://li-chongyi.github.io/proj_benchmark.html">Link.</a>
  <h3> To run code with original dataset </h3>
  <ol>
   <li> Download Dataset from the above link and extract it using the password specified in the website.</li>
